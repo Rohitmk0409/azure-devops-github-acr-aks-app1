@@ -11,7 +11,7 @@ resources:
 variables:
 
   # Container registry service connection established during pipeline creation
-  dockerRegistryServiceConnection: '48d9506c-282f-4e1e-9de7-8c2bddc5f1e2'
+  dockerRegistryServiceConnection: '489ae22c-9683-45c0-bbb6-1d4f99058223'
   imageRepository: 'rohitmkazuredevopsgithubacraksapp'
   containerRegistry: 'devpstestazre.azurecr.io'
   dockerfilePath: '**/Dockerfile'
